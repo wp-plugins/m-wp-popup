@@ -3,7 +3,7 @@
 Plugin Name: WP Popup Plugin
 Plugin URI: http://muneeb.me/wp-popup-plugin/
 Description: The best WordPress Popup plugin. Period.
-Version: 0.1
+Version: 0.2
 Author: Muneeb
 Author URI: http://muneeb.me/wp-popup-plugin/
 License: GPLv2 or later
