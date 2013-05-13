@@ -1,7 +1,7 @@
 === WP Popup Plugin ===
 Contributors: Muneeb 
 Donate link:http://muneeb.me/wp-popup-plugin/
-Tags: popup,modal,lightbox,overlay,subscriber form,form,aweber,mailchimp,best,jquery,colorbox
+Tags: aweber, bar, conversion, cookies, email, exit popup, hover, jquery, lightbox, mailchimp, page, popup, Post, premium, revenue, sales, simple popup, wordpress popup, video
 Requires at least: 3.1
 Tested up to: 3.6
 Stable tag: 0.1
