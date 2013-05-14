@@ -42,4 +42,4 @@ define( 'POPUP_PLUGIN_JS_DIRECTORY', POPUP_PLUGIN_PATH .
 define( 'POPUP_PLUGIN_MAIN_FILE', POPUP_PLUGIN_PATH . 'wp-popup.php' );
 
 
-define( 'POPUP_PLUGIN_VERSION', '0.1' );
+define( 'POPUP_PLUGIN_VERSION', '0.2' );
