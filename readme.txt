@@ -4,7 +4,7 @@ Donate link:http://muneeb.me/wp-popup-plugin/
 Tags: aweber, bar, conversion, cookies, email, exit popup, hover, jquery, lightbox, mailchimp, page, popup, popups, Post, premium, revenue, sales, simple popup, wordpress popup, video
 Requires at least: 3.1
 Tested up to: 3.6
-Stable tag: 0.3
+Stable tag: 0.4
 License: GPLv2 or later
 
 WP Popup plugin is beautifully designed and elegant plugin with focus on ease of use and functionality. Create unlimited Popups with subscriber forms
