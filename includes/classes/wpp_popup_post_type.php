@@ -432,16 +432,6 @@ class Wpp_Popup_Post_Type {
 
 		do_action( 'wpp_save_popup_data', $popup_id );
 
-		// Clear page cache of W3 Total Cache
-		if( class_exists('W3_Plugin_TotalCacheAdmin') 
-			&& POPUP_CLEAR_CACHE_ON_SAVE )
-		{
-		    $plugin_totalcacheadmin = & w3_instance('W3_Plugin_TotalCacheAdmin');
-
-		    $plugin_totalcacheadmin->flush_pgcache();
-
-		}
-
 	}
 
 	public static function default_options() {
