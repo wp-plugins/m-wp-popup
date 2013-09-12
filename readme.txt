@@ -7,7 +7,7 @@ Tested up to: 3.6
 Stable tag: 0.5
 License: GPLv2 or later
 
-WP Popup plugin is beautifully designed and elegant plugin with focus on ease of use and functionality. Create unlimited Popups with subscriber forms
+WP Popup plugin is beautifully designed and elegant plugin with focus on ease of use and functionality. Create unlimited Popups with subscriber forms 
 
 == Description ==
 
