@@ -3,7 +3,7 @@ Contributors: Muneeb
 Donate link:http://rocketplugins.com/wordpress-popup-plugin/
 Tags: aweber, bar, conversion, cookies, email, exit popup, hover, jquery, lightbox, mailchimp, page, popup, popups, Post, premium, revenue, sales, simple popup, wordpress popup, video
 Requires at least: 3.1
-Tested up to: 3.9
+Tested up to: 3.9.1
 Stable tag: 0.5
 License: GPLv2 or later
 
