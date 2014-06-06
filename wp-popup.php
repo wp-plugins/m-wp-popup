@@ -8,6 +8,8 @@ Author: Muneeb
 Author URI: http://rocketplugins.com/wordpress-popup-plugin/
 License: GPLv2 or later
 Copyright: 2013 Muneeb ur Rehman http://muneeb.me
+
+http://rocketplugins.com/contact
 **/
 
 require plugin_dir_path( __FILE__ ) . 'config.php';
