@@ -75,4 +75,6 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 
 Please use the forum on my site to get the support. This way it's easy for me to manage support requests and it helps others having the same issue. The link to the support forum is below.
 
+Please do not post pro version support requests on the free version support forum.
+
 <a href="http://muneeb.me/support/forum/wp-popup-plugin-2/">http://muneeb.me/support/forum/wp-popup-plugin-2/</a>
