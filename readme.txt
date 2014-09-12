@@ -50,7 +50,7 @@ There are no major functionality compromises made in the free version of the plu
      <strong>HTML theme </strong>use it to add any kind of valid HTML code like videos, images etc in the popup also WordPress shortcodes are supported.
     </li>
     <li>
-      Mailchimp, Aweber, Compaign Monitor are supported.
+      Mailchimp, Aweber, Campaign Monitor are supported.
     </li>
     <li>
       Two really beautiful and high converting popup themes with subscriber forms are included.
