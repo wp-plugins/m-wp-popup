@@ -71,6 +71,11 @@ Please click on the link to visit <a href="http://rocketplugins.com/wordpress-po
 
 Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
 
+Visit wp-admin -> WP Popup -> Add New to create new popup
+
+Visit wp-admin -> Settings -> WP Popup Settings to configure popup settings
+
+
 == Frequently Asked Questions ==
 
 Please use the forum on my site to get the support. This way it's easy for me to manage support requests and it helps others having the same issue. The link to the support forum is below.
