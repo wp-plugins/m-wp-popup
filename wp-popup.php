@@ -9,7 +9,7 @@ Author URI: http://rocketplugins.com/wordpress-popup-plugin/?ref=author_url
 License: GPLv2 or later
 Copyright: 2013 Muneeb ur Rehman http://muneeb.me
 
-http://rocketplugins.com/contact/?ref=plugin_readme
+http://rocketplugins.com/contact/?ref=plugin_mainfile
 **/
 
 require plugin_dir_path( __FILE__ ) . 'config.php';
