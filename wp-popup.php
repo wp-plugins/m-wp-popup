@@ -3,7 +3,7 @@
 Plugin Name: WP Popup Plugin
 Plugin URI: http://rocketplugins.com/wordpress-popup-plugin/?ref=plugin_url
 Description: The best WordPress Popup plugin. Period.
-Version: 0.5.5
+Version: 0.5.6
 Author: Muneeb
 Author URI: http://rocketplugins.com/wordpress-popup-plugin/?ref=author_url
 License: GPLv2 or later
@@ -16,4 +16,4 @@ require plugin_dir_path( __FILE__ ) . 'config.php';
 
 require POPUP_PLUGIN_INCLUDE_DIRECTORY . 'functions.php';
 
-load_wpp();
+_load_wpp();
