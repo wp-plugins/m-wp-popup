@@ -42,7 +42,7 @@ if ( isset( $_REQUEST['saved'] ) ) echo '<div id="message" class="updated fade">
 						<label for="redirect_url">Redirect URL</label>
 						<input type="text" id="redirect_url" name="settings[redirect_url]" value="<?php echo $settings['redirect_url'] ?>" />
 							
-						<small>Leave it empty if you don't want to redirect the subscriber after he/she successfully submitted his/her email address</small>
+						<small>Redirect subscriber to new page after successfull email subscription OR leave empty to show thanks message inside the popup.</small>
 
 					</div>
 
