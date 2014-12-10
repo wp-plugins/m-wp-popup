@@ -2,7 +2,7 @@
 		
 	<div class="wp-box">
 		<div class="inner">
-			<h3 class="h2"><?php _e("WordPress Popup Plugin",'wpp'); ?></h3>
+			<h3 class="h2"><?php _e("WP Popup Plugin",'wpp'); ?></h3>
 		
 			<h2><?php _e("Support",'wpp'); ?></h3>
 			<p>Please post your question on 
