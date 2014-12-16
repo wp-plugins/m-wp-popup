@@ -33,7 +33,7 @@ if ( isset( $_REQUEST['saved'] ) ) echo '<div id="message" class="updated fade">
 
 							<?php do_action( 'wpp_settings_email_service_select',$settings['email_service'] ) ?>
 						</select>
-						<small>Select email marketing service</small>
+						<small>Select an email marketing service</small>
 
 					</div>
 
