@@ -51,7 +51,7 @@ if ( isset( $_REQUEST['saved'] ) ) echo '<div id="message" class="updated fade">
 						<label for="inline_thanks_message">In-popup thanks message</label>
 						<textarea id="inline_thanks_message" name="settings[inline_thanks_message]"><?php echo $settings['inline_thanks_message'] ?></textarea>
 							
-						<small>If the redirect url field is empty then the content from this field will be shown in the popup as a thanks message or success message</small>
+						<small>If the redirect url field is empty the text from this field will be shown in the popup as a thanks message.</small>
 
 					</div>
 
@@ -61,7 +61,7 @@ if ( isset( $_REQUEST['saved'] ) ) echo '<div id="message" class="updated fade">
 						<label for="unknown_error">Unknown error message</label>
 						<textarea id="unknown_error" name="settings[error_message][unknown]"><?php echo $settings['error_message']['unknown'] ?></textarea>
 							
-						<small>This error message will be shown inside the popup with the error message from your email marketing service</small>
+						<small>Text will be shown inside the popup with the error message from your email marketing service.</small>
 
 					</div>
 
@@ -70,7 +70,7 @@ if ( isset( $_REQUEST['saved'] ) ) echo '<div id="message" class="updated fade">
 						<label for="subscriber_alredy_exist_error">Subscriber already exist error</label>
 						<textarea id="subscriber_alredy_exist_error_error" name="settings[error_message][subscriber_already_exist]"><?php echo $settings['error_message']['subscriber_already_exist'] ?></textarea>
 							
-						<small>This message will be shown inside the popup when the email used by the subscriber already exist in your email list</small>
+						<small>Text will be shown in an alert dialog box if the email used by the subscriber already exist in your email list</small>
 
 					</div>
 
