@@ -51,7 +51,7 @@ if ( isset( $_REQUEST['saved'] ) ) echo '<div id="message" class="updated fade">
 						<label for="inline_thanks_message">In-popup thanks message</label>
 						<textarea id="inline_thanks_message" name="settings[inline_thanks_message]"><?php echo $settings['inline_thanks_message'] ?></textarea>
 							
-						<small>If the redirect url field is empty the text from this field will be shown in the popup as a thanks message.</small>
+						<small>If the redirect url field is empty the text from this field will be shown inside the popup as a thanks message.</small>
 
 					</div>
 
@@ -61,7 +61,7 @@ if ( isset( $_REQUEST['saved'] ) ) echo '<div id="message" class="updated fade">
 						<label for="unknown_error">Unknown error message</label>
 						<textarea id="unknown_error" name="settings[error_message][unknown]"><?php echo $settings['error_message']['unknown'] ?></textarea>
 							
-						<small>Text will be shown inside the popup with the error message from your email marketing service.</small>
+						<small>Text will be shown in an alert dialog box with the error message from your email marketing service.</small>
 
 					</div>
 
