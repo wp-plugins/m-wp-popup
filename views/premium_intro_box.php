@@ -19,7 +19,7 @@
 					<li><?php _e("Created by",'wpp'); ?> Muneeb ur Rehman</li>
 				</ul>
 				<ul class="right hl">
-					<li><a href="http://twitter.com/tmuneeb"><?php _e("Follow Me",'wpp'); ?></a></li>
+					<li><a href="http://twitter.com/tmuneeb"><?php _e("Follow Muneeb",'wpp'); ?></a></li>
 				</ul>
 			</div>
 	</div>
