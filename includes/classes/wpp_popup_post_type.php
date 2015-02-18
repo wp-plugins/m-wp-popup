@@ -313,11 +313,6 @@ class Wpp_Popup_Post_Type {
 	function frontend_js_wp_head() {
 
 		return;
-		echo '<script>';
-
-		include POPUP_PLUGIN_PATH . '/js/wpp-popup-frontend.js';
-
-		echo '</script>';
 
 	}
 
