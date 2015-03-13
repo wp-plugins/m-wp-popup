@@ -41,9 +41,9 @@ define( 'POPUP_PLUGIN_JS_DIRECTORY', POPUP_PLUGIN_PATH .
 
 define( 'POPUP_PLUGIN_MAIN_FILE', POPUP_PLUGIN_PATH . 'wp-popup.php' );
 
-//auto load themes from this directory.
+//auto load themes from popup themes directory.
 define( 'POPUP_THEME_DIRECTORY', POPUP_PLUGIN_PATH . 'themes' );
 
 define( 'POPUP_CLEAR_CACHE_ON_SAVE', TRUE );
 
-define( 'POPUP_PLUGIN_VERSION', '0.5.17' );
+define( 'POPUP_PLUGIN_VERSION', '0.5.18' );
