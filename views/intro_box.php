@@ -17,12 +17,6 @@
 		
 			</div>
 			<div class="footer footer-blue">
-				<ul class="left hl">
-					<li><?php _e("Created by",'wpp'); ?> Muneeb ur Rehman</li>
-				</ul>
-				<ul class="right hl">
-					<li><a href="http://twitter.com/tmuneeb"><?php _e("Follow Me",'wpp'); ?></a></li>
-				</ul>
 			</div>
 	</div>
 </div>
