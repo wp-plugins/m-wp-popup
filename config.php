@@ -46,4 +46,4 @@ define( 'POPUP_THEME_DIRECTORY', POPUP_PLUGIN_PATH . 'themes' );
 
 define( 'POPUP_CLEAR_CACHE_ON_SAVE', TRUE );
 
-define( 'POPUP_PLUGIN_VERSION', '0.5.18' );
+define( 'POPUP_PLUGIN_VERSION', '0.5.21' );

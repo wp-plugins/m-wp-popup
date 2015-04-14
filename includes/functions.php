@@ -5,7 +5,7 @@ function _load_wpp() {
 	load_wpp_classes();
 
 
-	//Plugin loaded
+	//execute hook wpp_loaded
 	wpp_loaded();
 
 }
