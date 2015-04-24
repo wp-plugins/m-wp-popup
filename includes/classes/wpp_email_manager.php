@@ -29,7 +29,7 @@ class Wpp_Email_Manager {
 
 	function store_email() {
 
-		usleep( 500 );
+		usleep( 400 );
 
 		error_reporting(0);
 
