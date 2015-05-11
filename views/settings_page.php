@@ -42,7 +42,7 @@ if ( isset( $_REQUEST['saved'] ) ) echo '<div id="message" class="updated fade">
 						<label for="redirect_url">Redirect URL</label>
 						<input type="text" id="redirect_url" name="settings[redirect_url]" value="<?php echo $settings['redirect_url'] ?>" />
 							
-						<small>Redirect subscriber to new page after successful email subscription OR leave empty to show thanks message inside the popup.</small>
+						<small>Redirect subscriber to a new page after successful email subscription OR leave empty to show thanks message inside the popup.</small>
 
 					</div>
 
@@ -51,7 +51,7 @@ if ( isset( $_REQUEST['saved'] ) ) echo '<div id="message" class="updated fade">
 						<label for="inline_thanks_message">In-popup thanks message</label>
 						<textarea id="inline_thanks_message" name="settings[inline_thanks_message]"><?php echo $settings['inline_thanks_message'] ?></textarea>
 							
-						<small>If the redirect url field is empty the text from this field will be shown inside the popup as a thanks message.</small>
+						<small>If the redirect url field is empty then the text from this field will be shown inside the popup as a thanks message.</small>
 
 					</div>
 
