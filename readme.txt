@@ -78,7 +78,7 @@ Visit wp-admin -> Settings -> WP Popup Settings to configure popup settings
 
 == Frequently Asked Questions ==
 
-Please use the forum on my site to get the support. This way it's easy for me to manage support requests and it helps others having the same issue. The link to the support forum is below.
+Please use the forum on plugin site to get the support. It'll be easy to manage support requests and it helps others having the same issue. The link to the support forum is below.
 
 <strong>Please don't post pro version support requests on the free version support forum.</strong>
 
