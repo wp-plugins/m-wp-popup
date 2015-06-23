@@ -21,7 +21,7 @@ There are no major functionality compromises made in the free version of the plu
 </div>
 
 *   Create unlimited popups
-*   Can create link popups which trigger popup after clicking on a link or image
+*   Create link popups which trigger popup after clicking on a link or image
 *   Mailchimp is supported ( Aweber, Campaign monitor are in premium version )
 *   Can set the delay time after which popup will appear or Popup scheduling
 *   Can change the mask color
