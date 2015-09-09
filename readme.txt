@@ -1,7 +1,7 @@
 === WP Popup Plugin ===
 Contributors: Muneeb 
 Donate link:http://rocketplugins.com/wordpress-popup-plugin/?ref=donate_link
-Tags: aweber, bar, conversion, cookies, email, exit popup, hover, jquery, lightbox, mailchimp, page, popup, popups, post, premium, revenue, sales, simple popup, wordpress popup, video, image, subscribe, form, shortcodes, opt-in, optin form, layer popup, icontact, compaign monitor, 4.3,rocket plugins, exit intent, layer, mask, overlay, layout, box, marketing, convert, visitor,visit,lightbox slider,database,subscriber,seo,facebook,slider,infusion soft
+Tags: aweber, bar, conversion, cookies, email, exit popup, hover, jquery, lightbox, mailchimp, page, popup, popups, post, premium, revenue, sales, simple popup, wordpress popup, video, image, subscribe, form, shortcodes, opt-in, optin form, layer popup, icontact, compaign monitor, rocket plugins, exit intent, layer, mask, overlay, layout, box, marketing, convert, visitor,visit,lightbox slider,database,subscriber,seo,facebook,slider,infusion soft, login form, lead, bar
 Requires at least: 3.1
 Tested up to: 4.3
 Stable tag: 0.5
@@ -22,7 +22,7 @@ There are no major functionality compromises made in the free version of the plu
 
 *   Create unlimited popups
 *   Create link popups which trigger popup after clicking on a link or image
-*   Mailchimp is supported ( Aweber, Campaign monitor are in premium version )
+*   Mailchimp is supported ( Aweber, Campaign monitor are supported in premium version )
 *   Can set the delay time after which popup will appear or Popup scheduling
 *   Can change the mask color
 *   Option to hide the popup on mobile devices
