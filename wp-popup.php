@@ -1,15 +1,15 @@
 <?php
 /**
 Plugin Name: WP Popup Plugin
-Plugin URI: http://rocketplugins.com/wordpress-popup-plugin/?ref=plugin_uri
+Plugin URI: http://rocketplugins.com/wordpress-popup-plugin/
 Description: The best WordPress Popup plugin. Period.
-Version: 0.5.25
+Version: 0.5.27
 Author: Muneeb
-Author URI: http://rocketplugins.com/wordpress-popup-plugin/?ref=author_uri
+Author URI: http://rocketplugins.com/wordpress-popup-plugin/
 License: GPLv2 or later
 Copyright: 2015 Muneeb ur Rehman http://muneeb.me
 
-http://rocketplugins.com/contact/
+http://muneeb.me/contact/
 **/
 
 require plugin_dir_path( __FILE__ ) . 'config.php';
