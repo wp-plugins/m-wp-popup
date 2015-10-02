@@ -1,7 +1,7 @@
 === WP Popup Plugin ===
 Contributors: Muneeb 
 Donate link:http://rocketplugins.com/wordpress-popup-plugin/?ref=donate_link
-Tags: aweber, bar, conversion, cookies, email, exit popup, hover, jquery, lightbox, mailchimp, page, popup, popups, post, premium, revenue, sales, simple popup, wordpress popup, video, image, subscribe, form, shortcodes, opt-in, optin form, layer popup, icontact, compaign monitor, rocket plugins, exit intent, layer, mask, overlay, layout, box, marketing, convert, visitor,visit,lightbox slider,database,subscriber,seo,facebook,slider,infusion soft, login form, lead, bar
+Tags: aweber, bar, conversion, cookies, email, exit popup, hover, jquery, lightbox, mailchimp, page, popup, popups, post, premium, revenue, sales, simple popup, wordpress popup, video, image, subscribe, form, shortcodes, opt-in, optin form, layer popup, icontact, compaign monitor, rocket plugins, exit intent, layer, mask, overlay, layout, box, marketing, convert, visitor,visit,lightbox slider,database,subscriber,seo,facebook,slider,infusion soft, login form, bar
 Requires at least: 3.1
 Tested up to: 4.3
 Stable tag: 0.5
